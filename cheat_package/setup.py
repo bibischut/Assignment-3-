@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-  name="cheat",
+  name="cheat_package",
   author="Bibi Schut",
-  packages=["cheat"]
+  packages=["cheat_package"]
 )
