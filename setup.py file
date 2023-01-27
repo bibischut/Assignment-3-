@@ -1,7 +1,0 @@
-import setuptools
-
-setuptools.setup(
-name="cheat_assignment_function",
-author="Bibi Schut",
-packages= ["cheat_assignment_function"]
-)
