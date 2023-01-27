@@ -1,1 +1,1 @@
-from .cheat_assignment_function import cheat
+from .cheat import cheat_assignment_function
